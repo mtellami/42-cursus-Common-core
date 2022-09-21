@@ -1,26 +1,26 @@
 # 42Cursus progress
 
-- libft
-- ft_printf
-- getNextLine
-- born2beroot
+- libft : C - Libraries
+- ft_printf : C - Variadic functions
+- getNextLine : C - Static variables
+- born2beroot : Sysadmin
 
 ---
 
-- soLong
-- miniTalk
-- pushSwap
+- soLong : C - GameDev
+- miniTalk : C - Signals
+- pushSwap : C - Sorting algorithms and complexity
 
 ---
 
-- miniShell
-- philosphers
+- miniShell : C - processes and file descriptors
+- philosphers : C - Threads and Processes
 
 ---
 
-- cub3d
-- cpp
-- netPractice
+- cub3d : C - GameDev
+- cpp : C++
+- netPractice : C - Networking
 
 ---
 
