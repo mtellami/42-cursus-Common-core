@@ -1,6 +1,9 @@
 # 42Cursus progress
 
 - libft : C - Libraries
+
+---
+
 - ft_printf : C - Variadic functions
 - getNextLine : C - Static variables
 - born2beroot : Sysadmin
