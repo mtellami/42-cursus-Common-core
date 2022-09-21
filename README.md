@@ -1,5 +1,18 @@
 # 42Cursus progress
 
-- 1. libft
-- 2. ft_printf
-- 3. get_next_line
+- libft
+- ft_printf
+- getNextLine
+- born2beroot
+- soLong
+- miniTalk
+- pushSwap
+- miniShell
+- philosphers
+- cub3d
+- cpp
+- netPractice
+- ftContainers
+- webserv
+- inception
+- ftTranscendence
