@@ -1,12 +1,12 @@
 # 42Cursus progress
 
-- libft : C - Libraries
+- libft : C - Libraries : 60Hrs
 
 ---
 
-- ft_printf : C - Variadic functions
-- getNextLine : C - Static variables
-- born2beroot : Sysadmin
+- ft_printf : C - Variadic functions : 60Hrs
+- getNextLine : C - Static variables : 60Hrs
+- born2beroot : Sysadmin : 60Hrs
 
 ---
 
