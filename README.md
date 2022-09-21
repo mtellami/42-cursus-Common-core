@@ -10,20 +10,20 @@
 
 ---
 
-- soLong : C - GameDev
-- miniTalk : C - Signals
 - pushSwap : C - Sorting algorithms and complexity
+- miniTalk : C - Signals
+- soLong : C - GameDev
 
 ---
 
-- miniShell : C - processes and file descriptors
 - philosphers : C - Threads and Processes
+- miniShell : C - processes and file descriptors
 
 ---
 
 - cub3d : C - GameDev
-- cpp : C++
 - netPractice : C - Networking
+- cpp : C++
 
 ---
 
