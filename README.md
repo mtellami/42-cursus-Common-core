@@ -10,7 +10,7 @@
 | born2beroot      | 40 Hrs   | System administration     | 577 XP     |   ✅   |
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 2  🚩  |          |                           |            |   ✅   |
-| push_swap        | 60 Hrs   | C - Sorting algorithms    | 1855 XP    |        |
+| push_swap        | 60 Hrs   | C - Sorting algorithms    | 1855 XP    |   🔄   |
 | so_long          | 60 Hrs   | C - 2D GameDev            | 1000 XP    |        |
 | pipex            | 50 Hrs   | C - Pip                   | 1142 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
