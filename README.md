@@ -14,8 +14,8 @@
 | so_long          | 60 Hrs   | C - 2D GameDev            | 1000 XP    |[![mtellami's 42 so_long Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2879615)](https://github.com/JaeSeoKim/badge42)|
 | pipex            | 50 Hrs   | C - Pip                   | 1142 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
-| Exam rank 3  🚩  |          |                           |            |        |
 | minishell        | 210 Hrs  | C - processes & fd        | 2814 XP    |        |
+| Exam rank 3  🚩  |          |                           |            |        |
 | philosophers     | 70 Hrs   | C - Threads & Processes   | 3360 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 4  🚩  |          |                           |            |        |
