@@ -14,9 +14,9 @@
 | so_long          | 60 Hrs   | C - 2D GameDev            | 1000 XP    |[![mtellami's 42 so_long Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2879615)](https://github.com/JaeSeoKim/badge42)|
 | pipex            | 50 Hrs   | C - Pipe                  | 1142 XP    |[![mtellami's 42 pipex Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2893970)](https://github.com/JaeSeoKim/badge42)|
 | 🌀🌀🌀            |          |                           |            |        |
-| minishell        | 210 Hrs  | C - processes & fd        | 2814 XP    |        |
-| Exam rank 3  🚩  |          |                           |            |        |
+| Exam rank 3  🚩  |          |                           |            |[![mtellami's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2904710)](https://github.com/JaeSeoKim/badge42)|
 | philosophers     | 70 Hrs   | C - Threads & Processes   | 3360 XP    |        |
+| minishell        | 210 Hrs  | C - processes & fd        | 2814 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 4  🚩  |          |                           |            |        |
 | net_practice     | 50 Hrs   | C - Networking            | 3160 XP    |        |
