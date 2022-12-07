@@ -15,7 +15,7 @@
 | pipex            | 50 Hrs   | C - Pipe                  | 1142 XP    |[![mtellami's 42 pipex Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2893970)](https://github.com/JaeSeoKim/badge42)|
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 3  🚩  |          |                           |            |[![mtellami's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2904710)](https://github.com/JaeSeoKim/badge42)|
-| philosophers     | 70 Hrs   | C - Threads & Processes   | 3360 XP    |        |
+| philosophers     | 70 Hrs   | C - Threads & Processes   | 3360 XP    |[![mtellami's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2905636)](https://github.com/JaeSeoKim/badge42)|
 | minishell        | 210 Hrs  | C - processes & fd        | 2814 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 4  🚩  |          |                           |            |        |
