@@ -16,10 +16,10 @@
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 3  🚩  |          |                           |            |[![mtellami's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2904710)](https://github.com/JaeSeoKim/badge42)|
 | philosophers     | 70 Hrs   | C - Threads & Processes   | 3360 XP    |[![mtellami's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2905636)](https://github.com/JaeSeoKim/badge42)|
-| minishell        | 210 Hrs  | C - processes & fd        | 2814 XP    |        |
+| minishell        | 210 Hrs  | C - processes & fd        | 2814 XP    |[![mtellami's 42 minishell Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2932680)](https://github.com/JaeSeoKim/badge42)|
 | 🌀🌀🌀            |          |                           |            |        |
-| Exam rank 4  🚩  |          |                           |            |        |
-| net_practice     | 50 Hrs   | C - Networking            | 3160 XP    |        |
+| Exam rank 4  🚩  |          |                           |            |[![mtellami's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2965028)](https://github.com/JaeSeoKim/badge42)|
+| net_practice     | 50 Hrs   | C - Networking            | 3160 XP    |[![mtellami's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2965029)](https://github.com/JaeSeoKim/badge42)|
 | cub3d            | 280 Hrs  | C - 3D GameDev            | 5775 XP    |        |
 | c++ module       | 60 Hrs   | C++ programming           | 9660 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
