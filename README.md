@@ -24,7 +24,7 @@
 | c++ module 04    | 60 Hrs   | C++ programming           | 9660 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 5  🚩  |          |                           |            |        |
-| c++ module 09    | 140 Hrs  | C++ Containers, easy mode | 0000 XP    |        |
+| c++ module 09    | 140 Hrs  | C++ programming           | 0000 XP    |        |
 | inception        | 210 Hrs  | System admin by Docker    | 0000 XP    |        |
 | webserv          | 210 Hrs  | C++ - HTTP Server         | 0000 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
