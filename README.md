@@ -23,8 +23,8 @@
 | cub3d            | 280 Hrs  | C - 3D GameDev            | 5775 XP    |[![mtellami's 42 cub3d Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2979821)](https://github.com/JaeSeoKim/badge42)|
 | c++ module 04    | 60 Hrs   | C++ programming           | 9660 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
-| Exam rank 5  🚩  |          |                           |            |        |
 | c++ module 09    | 140 Hrs  | C++ programming           | 0000 XP    |        |
+| Exam rank 5  🚩  |          |                           |            |        |
 | inception        | 210 Hrs  | System admin by Docker    | 0000 XP    |        |
 | webserv          | 210 Hrs  | C++ - HTTP Server         | 0000 XP    |        |
 | 🌀🌀🌀            |          |                           |            |        |
