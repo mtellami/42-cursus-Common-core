@@ -21,7 +21,7 @@
 | Exam rank 4  🚩  |          |                           |            |[![mtellami's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2965028)](https://github.com/JaeSeoKim/badge42)|
 | net_practice     | 50 Hrs   | C - Networking            | 3160 XP    |[![mtellami's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2965029)](https://github.com/JaeSeoKim/badge42)|
 | cub3d            | 280 Hrs  | C - 3D GameDev            | 5775 XP    |[![mtellami's 42 cub3d Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2979821)](https://github.com/JaeSeoKim/badge42)|
-| c++ module 04    | 60 Hrs   | C++ programming           | 9660 XP    |        |
+| c++ module 04    | 60 Hrs   | C++ programming           | 9660 XP    |[![mtellami's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/3057249)](https://github.com/JaeSeoKim/badge42)|
 | 🌀🌀🌀            |          |                           |            |        |
 | c++ module 09    | 140 Hrs  | C++ programming           | 0000 XP    |        |
 | Exam rank 5  🚩  |          |                           |            |        |
