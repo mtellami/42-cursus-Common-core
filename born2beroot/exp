@@ -1,0 +1,63 @@
+- how a virtual machine work ? 
+
+- basic difference between CentOS and debian ?
+
+- the purpose of virtual machine ?
+
+- difference between apt and aptitude ?
+
+- what is AppArmor ?
+
+- script must display info every 5 min ?
+
+- UFW ?
+
+- SSH ?
+
+-----------------USER--------------------->
+
+- create & delete users ?
+
+- add & remove user from/to group ?
+
+- password policy ?
+
+-----------------HOSTNAME AND PARTITIOM---------------->
+
+- hostname ?
+- partition (LVM)
+
+-----------------SUDO--------------------->
+
+- SUDO ?
+- Sudo rules ?
+- sudo logfile ?
+- TTY ?
+- secure path (bin:sbin) ?
+
+------------------UFW-------------------->
+
+- UFW ?
+
+- why using ufw ?
+
+------------------SSH-------------------->
+
+- SSH ?
+
+- why using ssh ?
+
+------------------SCRIPT-------------------->
+
+- script
+ + what is wall ?
+ + uname ?
+ + difference between CPU vCPU ?
+ + free ?
+ + df ?
+ + who ?
+ + lsblk ?
+ + users
+ + hostname & ip
+- cronjob ?
+
