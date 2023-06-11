@@ -25,6 +25,7 @@
 | 🌀🌀🌀           |          |                           |            |        |
 | c++ module 09    | 140 Hrs  | C++ programming           | 10042 XP   |[![mtellami's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/3104617)](https://github.com/JaeSeoKim/badge42)|
 | Exam rank 5  🚩  |          |                           |            |[![mtellami's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/3108368)](https://github.com/JaeSeoKim/badge42)|
+| Break !!         | 240 Hrs  | web dev + more ...        | 00000 XP   |🔁🔁🔁🔁🔁 |
 | inception        | 210 Hrs  | System admin by Docker    | 10042 XP   |        |
 | webserv          | 210 Hrs  | C++ - HTTP Server         | 21630 XP   |        |
 | 🌀🌀🌀           |          |                           |            |        |
