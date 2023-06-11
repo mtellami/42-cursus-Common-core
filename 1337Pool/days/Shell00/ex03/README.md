@@ -1,0 +1,2 @@
+# command
+- man ssh-keygen
